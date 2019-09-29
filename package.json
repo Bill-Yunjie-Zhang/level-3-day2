@@ -1,0 +1,16 @@
+{
+  "name": "type-methods",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "authentication": "node src/excercise/authentication.js",
+    "anagram": "node src/excercise/anagram.js",
+    "string": "node src/types/string.js",
+    "object": "node src/types/object.js",
+    "array": "node src/types/array.js"
+  },
+  "author": "Bill",
+  "license": "ISC"
+}
